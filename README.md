@@ -5,6 +5,8 @@
 ## 普通启动
 启动项目之后, 浏览器访问 `http://localhost:8080/test/article` 即可跑通测试接口
 
+!!! 重要建议, 建议完成普通启动并且正常运行之后再进行以下的编译测试
+
 ## GraalVM 编译环境
 
 环境: `GraalVM for JDK 21`
